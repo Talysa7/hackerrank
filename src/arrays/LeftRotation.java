@@ -1,4 +1,4 @@
-package warmUp;
+package arrays;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package warmUp;
+package arrays;
 
 public class HourGlassSum {
 	static int hourglassSum(int[][] arr) {
